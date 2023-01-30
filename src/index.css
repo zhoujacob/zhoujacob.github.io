@@ -6,7 +6,7 @@ html{
 /* This section modifies the codes background, colour, and font*/
 body { 
   margin: 0;
-  font-family: 300 11px/1.4 'Montserrat';
+  font: 300 11px/1.4 'Montserrat';
   color: #444;
   background: #022c43;
   overflow: hidden;
