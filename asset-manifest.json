@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/zhoujacob.github.io/static/css/main.9ae3babf.css",
-    "main.js": "/zhoujacob.github.io/static/js/main.30975b76.js",
+    "main.css": "/zhoujacob.github.io/static/css/main.f835f455.css",
+    "main.js": "/zhoujacob.github.io/static/js/main.08bef1f3.js",
     "static/js/787.a2cb61a6.chunk.js": "/zhoujacob.github.io/static/js/787.a2cb61a6.chunk.js",
     "static/media/WorldCup.jpg": "/zhoujacob.github.io/static/media/WorldCup.6eab6a28d86f07324ab9.jpg",
     "static/media/Montserrat-VariableFont_wght.ttf": "/zhoujacob.github.io/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "static/media/JACOBFACE.png": "/zhoujacob.github.io/static/media/JACOBFACE.03c6f9f7d66f84d352c4.png",
     "index.html": "/zhoujacob.github.io/index.html",
-    "main.9ae3babf.css.map": "/zhoujacob.github.io/static/css/main.9ae3babf.css.map",
-    "main.30975b76.js.map": "/zhoujacob.github.io/static/js/main.30975b76.js.map",
+    "main.f835f455.css.map": "/zhoujacob.github.io/static/css/main.f835f455.css.map",
+    "main.08bef1f3.js.map": "/zhoujacob.github.io/static/js/main.08bef1f3.js.map",
     "787.a2cb61a6.chunk.js.map": "/zhoujacob.github.io/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ae3babf.css",
-    "static/js/main.30975b76.js"
+    "static/css/main.f835f455.css",
+    "static/js/main.08bef1f3.js"
   ]
 }
