@@ -1,5 +1,5 @@
-import { Link, NavLink } from 'react-router-dom'
 import './index.scss'
+import { Link, NavLink } from 'react-router-dom'
 import WorldCupLogo from '../../assets/images/WorldCup.jpg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faUser, faEnvelope} from '@fortawesome/free-solid-svg-icons'
