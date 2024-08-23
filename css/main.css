@@ -2513,7 +2513,7 @@ footer .footer-social {
 	margin: 0;
 	padding: 0;
 	position: relative;
-	top: -.3rem;
+	top: .100rem;
 }
 footer .footer-social li {
 	display: inline-block;
