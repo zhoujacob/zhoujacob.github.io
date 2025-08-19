@@ -24,3 +24,11 @@ body{
     width: 100px;
     height: 100px;
 }
+
+.timeline-header h3 .subrole {
+  display: block;
+  font-weight: 400;
+  font-size: 0.7em;
+  color: #888;
+  margin-top: .25rem;
+}
