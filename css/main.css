@@ -1680,7 +1680,16 @@ header .logo a {
 	text-align: right;
 }
 #resume .timeline-header h3 {
+	font-size: 1.9rem;
+	line-height: 1.35;
 	margin-bottom: 0;
+}
+#resume .timeline-header h3 .subrole {
+	display: block;
+	font-size: 0.72em;
+	font-weight: 400;
+	color: #888888;
+	margin-top: .35rem;
 }
 #resume .timeline-header p {
 	font-family: "poppins-regular", sans-serif;
@@ -1692,8 +1701,13 @@ header .logo a {
 	padding-left: 60px;
 }
 #resume .timeline-content h4 {
+	font-size: 1.8rem;
 	position: relative;
 	padding-bottom: 1.8rem;
+}
+#resume .timeline-content p {
+	font-size: 1.55rem;
+	line-height: 1.85;
 }
 #resume .timeline-content h4::after {
 	content: "";
@@ -1716,7 +1730,7 @@ header .logo a {
 		padding-right: 50px;
 	}
 	#resume .timeline-header h3 {
-		font-size: 1.8rem;
+		font-size: 1.7rem;
 	}
 	#resume .timeline-header p {
 		font-size: 1.4rem;
@@ -1739,7 +1753,7 @@ header .logo a {
 		text-align: left;
 	}
 	#resume .timeline-header h3 {
-		font-size: 2rem;
+		font-size: 1.8rem;
 	}
 	#resume .timeline-header p {
 		font-size: 1.5rem;
@@ -1752,7 +1766,7 @@ header .logo a {
 		padding-bottom: 0;
 		padding-top: 2.1rem;
 		margin-bottom: .6rem;
-		font-size: 1.7rem;
+		font-size: 1.6rem;
 	}
 	#resume .timeline-content h4::after {
 		bottom: auto;
